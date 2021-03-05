@@ -1,3 +1,0 @@
-# Documents
-hah
-In Dynamiv
