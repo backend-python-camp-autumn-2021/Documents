@@ -22,7 +22,7 @@
      Ω نمادگذاری-
      θ علامت گذاری-
 
-####Big Oh Notation، Ο
+###Big Oh Notation، Ο
 
 علامت گذاری (Ο) راهی رسمی برای بیان حد بالایی زمان اجرای یک الگوریتم است. این بدترین زمان پیچیدگی زمان یا طولانی ترین زمان ممکن است برای تکمیل الگوریتم را اندازه گیری کند. 
 
@@ -30,13 +30,8 @@
 ![image](https://www.tutorialspoint.com/data_structures_algorithms/images/big_o_notation.jpg)
 
 به عنوان مثال ، برای یک تابع f (n):
-</div>
-
 ```
 Ο(f(n)) = { g(n) : there exists c > 0 and n0 such that f(n) ≤ c.g(n) for all n > n0. }
 ```
-
-
-</div>
 
 
