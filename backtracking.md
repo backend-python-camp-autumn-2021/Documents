@@ -45,7 +45,7 @@ Backtrack(x)
 
 ![All possibilities](https://cdn.programiz.com/sites/tutorial2program/files/ba-possibilities.png)
 
-##### درخت **state space** زیر راه حل های ممکن را نشان می دهد:
+#### درخت **state space** زیر راه حل های ممکن را نشان می دهد:
 
 ![state-state-tree-example](https://cdn.programiz.com/sites/tutorial2program/files/ba-state-state-tree-example.png)
 
