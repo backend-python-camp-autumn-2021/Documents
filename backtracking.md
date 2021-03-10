@@ -42,11 +42,11 @@ Backtrack(x)
 راه حل: در کل 3 وجود دارد! = 6 احتمال. ما همه امکانات را امتحان خواهیم کرد و راه حل های ممکن را بدست خواهیم آورد. ما به طور بازگشتی همه احتمالات را امتحان می کنیم.
 تمام احتمالات عبارت اند از:
 
-       ![All possibilities](https://cdn.programiz.com/sites/tutorial2program/files/ba-possibilities.png)
+![All possibilities](https://cdn.programiz.com/sites/tutorial2program/files/ba-possibilities.png)
 
 درخت state space زیر راه حل های ممکن را نشان می دهد:
 
-       ![state-state-tree-example](https://cdn.programiz.com/sites/tutorial2program/files/ba-state-state-tree-example.png)
+![state-state-tree-example](https://cdn.programiz.com/sites/tutorial2program/files/ba-state-state-tree-example.png)
 
 برنامه های الگوریتم backtracking:
 برای یافتن تمام مسیرهای همیلتونی موجود در یک نمودار 
