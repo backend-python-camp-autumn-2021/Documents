@@ -191,7 +191,7 @@ search(pattern, text, q)
 * برای جستجوی رشته در متن بزرگتر
 
 
-## ویدیو آموزش الگوریتم رابین−کارپ( Rabin-karp ):
+## * ویدیو آموزش الگوریتم رابین−کارپ( Rabin-karp )
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
