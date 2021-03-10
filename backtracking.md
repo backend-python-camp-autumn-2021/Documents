@@ -49,10 +49,10 @@ Backtrack(x)
 ![state-state-tree-example](https://cdn.programiz.com/sites/tutorial2program/files/ba-state-state-tree-example.png)
 
 برنامه های الگوریتم backtracking:
-..* برای یافتن تمام مسیرهای همیلتونی موجود در یک نمودار 
-..* برای حل مشکل N Queen
-..* حل مسئله پیچ و خم یا Maze solving
-..* مشکل تور شوالیه( The Knight's tour ) 
+1. برای یافتن تمام مسیرهای همیلتونی [Hamiltonian Paths](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)موجود در یک نمودار 
+2. برای حل مشکل [N Queen](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+3. حل مسئله پیچ و خم یا [Maze solving](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
+4. مشکل تور شوالیه یا [The Knight's tour](https://en.wikipedia.org/wiki/Knight%27s_tour) 
 
 
 
