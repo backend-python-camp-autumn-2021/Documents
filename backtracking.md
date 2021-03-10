@@ -22,7 +22,9 @@
 درخت حالت فضایی درختی است که نمایانگر تمام حالات ممکن (راه حل یا عدم حل) مسئله از ریشه به عنوان یک حالت اولیه تا برگ به عنوان یک حالت انتهایی است.
 
 ![state space tree](https://cdn.programiz.com/sites/tutorial2program/files/ba-state-space-tree.png)
-کد الگوریتم backtracking:
+
+### کد الگوریتم **backtracking**:
+
 </div>
 
 ```python
