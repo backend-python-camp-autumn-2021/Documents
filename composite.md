@@ -14,7 +14,9 @@
 **کامپوزیت** یک الگوی طراحی ساختاری است که به شما امکان می دهد اشیا را در ساختارهای درختی ترکیب کنید و سپس با این ساختارها کار کنید گویی که اشیا individual جداگانه هستند.
 
 ![intent object tree](https://refactoring.guru/images/patterns/content/composite/composite.png)
-                            به composite درخت شی نیز گفته میشود
+###### به composite درخت شی نیز گفته میشود
+
+![composite tree](https://files.virgool.io/upload/users/14114/posts/itrkhk38m6qv/h4n8t6fvc5kg.png)
 
 ## مشکل :(
 استفاده از الگوی ترکیبی فقط زمانی منطقی است که مدل اصلی برنامه شما بتواند به عنوان یک درخت نشان داده شود.
