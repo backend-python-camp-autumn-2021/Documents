@@ -2,12 +2,12 @@
 <div dir="rtl">
 
 ## **فهرست** 
-- [ساختار(uml) composite](https://refactoring.guru/design-patterns/composite/python/example)
-- [نحوه اجرا](https://refactoring.guru/design-patterns/composite/python/example)
-- [مزایا و معایب](https://refactoring.guru/design-patterns/composite/python/example)
-- [روابط با الگوهای دیگر](https://refactoring.guru/design-patterns/composite/python/example)
-- [استفاده از الگو در پایتون](https://refactoring.guru/design-patterns/composite/python/example)
-- [مثال از composite در پایتون](https://refactoring.guru/design-patterns/composite/python/example)
+- [ساختار(uml) composite]()
+- [نحوه اجرا]()
+- [مزایا و معایب]()
+- [روابط با الگوهای دیگر]()
+- [استفاده از الگو در پایتون]()
+- [مثال از composite در پایتون]()
 ------
 
 ## هدف یا intent 
