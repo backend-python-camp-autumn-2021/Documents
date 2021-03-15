@@ -2,10 +2,10 @@
 <div dir="rtl">
 
 ## **فهرست** 
-- [درخت حالت فضایی یا State Space Tree](https://www.programiz.com/dsa/backtracking-algorithm)
-- [کد backtracking](https://www.programiz.com/dsa/backtracking-algorithm)
-- [مثالی از backtracking](https://www.programiz.com/dsa/backtracking-algorithm)
-- [برنامه های الگوریتم backtracking](https://www.programiz.com/dsa/backtracking-algorithm)
+- [درخت حالت فضایی یا State Space Tree]()
+- [کد backtracking]()
+- [مثالی از backtracking]()
+- [برنامه های الگوریتم backtracking]()
 ------
 
 در این آموزش می آموزیم که الگوریتم بازگشت به مرحله یا **backtracking** چیست. همچنین ، نمونه ای از رویکرد عقب نشینی را پیدا خواهید کرد.
