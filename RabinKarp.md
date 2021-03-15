@@ -2,12 +2,12 @@
 <div dir="rtl">
 
 ## **فهرست** 
-- [الگوریتم Rabin-karp چگونه کار میکند؟](https://www.programiz.com/dsa/rabin-karp-algorithm)
-- [الگوریتم Rabin-Karp در پایتون](https://www.programiz.com/dsa/rabin-karp-algorithm)
-- [محدودیت های الگوریتم Rabin-Karp](https://www.programiz.com/dsa/rabin-karp-algorithm)
-- [پیچیدگی الگوریتم Rabin-Karp](https://www.programiz.com/dsa/rabin-karp-algorithm)
-- [برنامه های الگوریتم Rabin-Karp](https://www.programiz.com/dsa/rabin-karp-algorithm)
-- [ویدیو آموزش الگوریتم Rabin-Karp](https://www.programiz.com/dsa/rabin-karp-algorithm)
+- [الگوریتم Rabin-karp چگونه کار میکند؟]()
+- [الگوریتم Rabin-Karp در پایتون]()
+- [محدودیت های الگوریتم Rabin-Karp]()
+- [پیچیدگی الگوریتم Rabin-Karp]()
+- [برنامه های الگوریتم Rabin-Karp]()
+- [ویدیو آموزش الگوریتم Rabin-Karp]()
 ------
 
 در این آموزش می آموزید که الگوریتم **rabin-karp** چیست. همچنین ، نمونه های مفیدی از الگوریتم **rabin-karp** را در **پایتون** خواهید یافت.
